@@ -5,7 +5,7 @@ const stats = [
   { value: "6+", label: "Years Experience" },
   { value: "5+", label: "Tech Ecosystem" },
   { value: "3", label: "Engineers Led" },
-  { value: "30%", label: "Latency Reduced" },
+  { value: "30+", label: "Projects Built" },
 ];
 
 export default function Stats() {
