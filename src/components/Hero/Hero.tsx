@@ -41,7 +41,7 @@ export default function Hero() {
               letterSpacing: "0.08em",
             }}
           >
-            SENIOR FULL STACK ENGINEER
+            SENIOR FULL STACK ENGINEER · FREELANCE · CONTRACT
           </Typography>
 
           <Typography
@@ -72,9 +72,11 @@ export default function Hero() {
               lineHeight: 1.8,
             }}
           >
-            Full Stack Engineer with 6+ years of experience building
-            performant web applications, scalable backend systems, and
-            developer-focused tools.
+            I'm Jyoti Burnwal, a Senior Full Stack Engineer with 6+ years
+            of experience building performant web applications, scalable
+            backend systems, and developer-focused tools using React,
+            Node.js, TypeScript, Python, and Golang. Available for freelance
+            and contract software engineering work.
           </Typography>
 
           <Stack
