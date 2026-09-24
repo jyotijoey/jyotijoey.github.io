@@ -53,10 +53,10 @@ export default function About() {
                   mb: 3,
                 }}
               >
-                I'm a Senior Full Stack Engineer with 6+ years of experience
-                building scalable web applications and backend systems.
-                My primary stack includes React, Node.js, TypeScript,
-                Python, and Golang.
+                I'm Jyoti Burnwal, a Senior Full Stack Engineer with 6+ years
+                of experience building scalable web applications, backend
+                systems, APIs, and developer tools. I specialize in React,
+                Node.js, TypeScript, Python, and Golang.
               </Typography>
 
               <Typography
@@ -67,9 +67,27 @@ export default function About() {
                   mb: 3,
                 }}
               >
-                I enjoy working on complex engineering problems — from
-                designing APIs and microservices to improving application
-                performance and building reliable developer tools.
+                I work across frontend and backend engineering, including
+                API design, microservices, databases, distributed systems,
+                performance optimization, and system architecture. I enjoy
+                turning complex technical problems into reliable and
+                maintainable software.
+              </Typography>
+
+              <Typography
+                color="text.secondary"
+                sx={{
+                  fontSize: "1.1rem",
+                  lineHeight: 1.9,
+                  mb: 3,
+                }}
+              >
+                I'm also available for freelance projects, contract
+                engineering engagements, software consulting, and startup
+                development. Whether you need a full-stack application,
+                backend service, API, performance improvement, or help
+                designing a scalable system, I can work across the product
+                and engineering lifecycle.
               </Typography>
 
               <Typography
@@ -80,8 +98,8 @@ export default function About() {
                 }}
               >
                 Beyond coding, I've led engineering teams, contributed to
-                open-source projects, and enjoy turning ideas into products
-                that people can actually use.
+                open-source projects, and enjoy building products and tools
+                that solve real problems.
               </Typography>
             </motion.div>
           </Grid>
